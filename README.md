@@ -4,7 +4,7 @@ SOFE4640 Assignment1
 #100553007
 
 
-Open Project "PizzaTest" as New Project
+Open Project "A1" as New Project
 
 Launch
 
